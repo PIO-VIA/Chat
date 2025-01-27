@@ -22,7 +22,7 @@ Avant de lancer l'application, assurez-vous que les éléments suivants sont ins
 
 - **Java JDK 11 ou supérieur**
 - **Maven** (pour la gestion des dépendances)
-- **Serveur réseau** (par exemple, un serveur socket si le projet est basé sur des sockets)
+- **Serveur réseau**
 
 ---
 
@@ -31,8 +31,8 @@ Avant de lancer l'application, assurez-vous que les éléments suivants sont ins
 1. **Clonez le dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/chat-app-java.git
-   cd chat-app-java
+   git clone https://github.com/PIO-VIA/chat-app.git
+   cd chat-ap
    ```
 
 2. **Compilez le projet avec Maven** :
@@ -85,7 +85,7 @@ Avant de lancer l'application, assurez-vous que les éléments suivants sont ins
 ## Technologies utilisées
 
 - **Java** : Langage principal pour la logique et la gestion réseau.
-- **Swing/JavaFX** : Pour l'interface utilisateur.
+- **JavaFX** : Pour l'interface utilisateur.
 - **Sockets TCP/IP** : Pour la communication réseau.
 - **Maven** : Pour la gestion des dépendances.
 
